@@ -8,7 +8,7 @@ This document contains information on how to download, install, and start
 using Symfony. For a more detailed explanation, see the [Installation][1]
 chapter of the Symfony Documentation.
 
-1) Installing the Standard Edition
+1) Installing the Standard Edition 222
 ----------------------------------
 
 When it comes to installing the Symfony Standard Edition, you have the
